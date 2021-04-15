@@ -3,7 +3,7 @@
  * @package  CoreWebVitals
  */
 /*
-Plugin Name: Inca Bean
+Plugin Name: Core Web Vitals
 Plugin URI: https://github.com/anthonyrka/core-web-vitals
 Description: Tracks and reports, in the admin bar, core web vitals as you develop your wordpress site
 Version: 0.0.1
